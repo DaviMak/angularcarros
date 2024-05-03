@@ -1,0 +1,31 @@
+.nome{
+    display: flex;
+    justify-content: center;
+    color: blue;
+    font-size: 40px;
+    border-radius: 6px;
+    
+    border-color: black;
+}
+.pinda{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: violet;
+    height: 5rem;
+    width: 20rem;
+}
+.lenco{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: darkgreen;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.botao{
+    width: 3rem;
+    height: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
